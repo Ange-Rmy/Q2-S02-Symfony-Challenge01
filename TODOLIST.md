@@ -9,7 +9,12 @@
     
     Envoi des documents sur GitHub via le terminal
     
+INFO DE GILLES
+    1ère difficulté :
+        La route /user/new/ envoie un message d'erreur : le champs roles a besoin d'un traitement spécifique et doit proposer de choisir 1 ou plusieurs rôles parmi une liste de choix.
 
+    2ème difficulté :
+        L'encodage du password doit être effectué. il faut s'inspirer de l'existant dans RegistrationController et reproduire le code dans la fonction new() de UserController attention d'importer toutes les classes nécessaires dans ce fichier, et de rajouter les paramètres dans new()
 
 
 ************************* DONE *************************
