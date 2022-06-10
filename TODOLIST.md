@@ -1,10 +1,13 @@
 ********************* TO DO LIST *********************
 
-BONUS 1 - Connexion USER
-        php bin/console make:auth
 
 BONUS 2 - Inscription USER
         php bin/console make:registration-form
+            yes
+            ni
+            yes
+
+    Envoi des documents sur GitHub via le terminal
 
 5 - CRUD sur USER
         php bin/console make:crud
@@ -48,6 +51,6 @@ BONUS 1 - Connexion USER
 
     Envoi des documents sur GitHub via le terminal
 
-    
+
 
 
